@@ -10,3 +10,10 @@ Open Browser To Login Page
     
     Create Webdriver    Chrome    options=${chrome_options}
     Go To    https://computing.kku.ac.th
+
+
+*** Test Cases ***
+Check KKU Computing Website
+    Open Browser To Login Page
+    Page Should Contain    College of Computing
+    Close Browser
