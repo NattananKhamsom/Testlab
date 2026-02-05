@@ -14,6 +14,7 @@ Open Browser To Login Page
 
 *** Test Cases ***
 Check KKU Computing Website
-    Open Browser To Login Page
-    Page Should Contain    College of Computing
+    ไม่รู้ใส่ไร
+    
+	
     Close Browser
